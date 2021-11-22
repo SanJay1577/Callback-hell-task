@@ -12,7 +12,7 @@ button.addEventListener("click", function(){
                                 setTimeout(()=>{text.innerHTML=3;
                                     setTimeout(()=>{text.innerHTML=2;
                                         setTimeout(()=>{text.innerHTML=1;
-                                            setTimeout(()=>{text.innerHTML="I love you Vidhya";}, 
+                                            setTimeout(()=>{text.innerHTML="Happy Independence day";}, 
                                             1000);}, 
                                             1000);}, 
                                             1000);;}, 
