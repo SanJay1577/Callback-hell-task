@@ -1,0 +1,25 @@
+.main-conainer{
+    color:darkmagenta;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    margin-top: 200px;
+    font-weight: bolder;
+    font-size:20px;
+    
+}
+#btn{
+    padding: 20px;
+    border-radius: 100px;
+    color:blanchedalmond;
+    background-color: black;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.5s ease-out;
+}
+
+#btn:hover{
+    background-color:brown;
+}
